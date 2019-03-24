@@ -21,7 +21,7 @@ Je me suis prêté à l'exercice pour vous montrer dans les grandes lignes ce qu
 
 Comme vous pourrez le voir, j'ai adapté le design d'origine pour qu'il s'apparente au Material Design, mais j'ai pris certaines libertés, auxquelles vous avez droit également.
 
-[Lien exemple](https://github.com/simplon-roanne/material-redisgn)
+[Lien exemple](https://github.com/simplon-roanne/material-redesign/blob/master/Redesign_d_une_page_de_cours_sur_Coursera_en_MaterialDesign.pdf)
 
 ## Conseils
 Pour faire cet exercice de redesign (proposition de composition graphique alternative), vous pouvez :
